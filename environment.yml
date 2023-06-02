@@ -1,0 +1,7 @@
+name: plazti_ds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: /home/dionicio/anaconda3/envs/plazti_ds
